@@ -64,6 +64,7 @@
   width: 55vw; 
   height: auto;
   cursor: pointer;
+  background-color: pink;
 }
 .fade-out {
   opacity: 0;
