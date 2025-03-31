@@ -13,7 +13,7 @@
   }
   .dialog-box svg {
     display: block;
-    max-width: 90vw; 
+    width: 85vw; 
     height: auto;
   }
   .character-name{
@@ -253,7 +253,7 @@
     font-size: 5vw;
   }
   .dialog-box svg {
-    max-width: 82vw; 
+    width: 82vw; 
   }
   .character img{
     width: 32vw;
