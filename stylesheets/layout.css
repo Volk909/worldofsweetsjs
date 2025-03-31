@@ -104,6 +104,9 @@
   justify-content: center;
   margin-top: 4vw;
 }
+.locations svg {
+  width: 85vw; 
+}
 .map-about{
   display: flex;
   justify-content: center;
