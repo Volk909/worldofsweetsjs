@@ -61,7 +61,7 @@
 }
 .dialog-box svg {
   display: block;
-  max-width: 55vw; 
+  width: 55vw; 
   height: auto;
   cursor: pointer;
 }
